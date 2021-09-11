@@ -1,0 +1,12 @@
+C:\Users\maxwe\source\repos\Graaficar3N+1\Graaficar3N+1\bin\Debug\Graaficar3N+1.exe.config
+C:\Users\maxwe\source\repos\Graaficar3N+1\Graaficar3N+1\bin\Debug\Graaficar3N+1.exe
+C:\Users\maxwe\source\repos\Graaficar3N+1\Graaficar3N+1\bin\Debug\Graaficar3N+1.pdb
+C:\Users\maxwe\source\repos\Graaficar3N+1\Graaficar3N+1\bin\Debug\Guna.UI2.dll
+C:\Users\maxwe\source\repos\Graaficar3N+1\Graaficar3N+1\obj\Debug\Graaficar3N+1.csproj.AssemblyReference.cache
+C:\Users\maxwe\source\repos\Graaficar3N+1\Graaficar3N+1\obj\Debug\Graaficar3N_1.MainForm.resources
+C:\Users\maxwe\source\repos\Graaficar3N+1\Graaficar3N+1\obj\Debug\Graaficar3N_1.Properties.Resources.resources
+C:\Users\maxwe\source\repos\Graaficar3N+1\Graaficar3N+1\obj\Debug\Graaficar3N+1.csproj.GenerateResource.cache
+C:\Users\maxwe\source\repos\Graaficar3N+1\Graaficar3N+1\obj\Debug\Graaficar3N+1.csproj.CoreCompileInputs.cache
+C:\Users\maxwe\source\repos\Graaficar3N+1\Graaficar3N+1\obj\Debug\Graaficar3N+1.csproj.CopyComplete
+C:\Users\maxwe\source\repos\Graaficar3N+1\Graaficar3N+1\obj\Debug\Graaficar3N+1.exe
+C:\Users\maxwe\source\repos\Graaficar3N+1\Graaficar3N+1\obj\Debug\Graaficar3N+1.pdb
